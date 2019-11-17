@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Luke Pasfield"
+	],
+	"copyright": "Copyright © 2019, Luke Pasfield",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "macbat"
+}

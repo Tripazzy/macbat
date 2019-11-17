@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/macbat
+macbat.so
+macbat.dylib
+macbat.dll
+macbat.a
+macbat.lib
+macbat-test-*
+*.exe
+*.o
+*.obj
+*.lst
